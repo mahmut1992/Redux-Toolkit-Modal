@@ -1,13 +1,37 @@
-# React + Vite
+# 🛒 Product Management App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository presents a product management application built with **React** and **Redux Toolkit**. The application allows users to create, update, delete, search, and sort products with a clean and responsive interface.
 
-Currently, two official plugins are available:
+# 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Create new products  
+- Edit existing product details  
+- Delete products  
+- Search products by name via search bar  
+- Sort products by price (ascending / descending)  
+- State management with Redux Toolkit  
+- Routing with React Router DOM  
+- Responsive UI with Tailwind CSS  
 
-## Expanding the ESLint configuration
+# 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Redux-Toolkit-Modal
+- React  
+- Redux Toolkit  
+- React Redux  
+- React Router DOM  
+- React Icons  
+- Tailwind CSS  
+- @tailwindcss/vite
+
+# 📸 Screenshot
+
+![ZightRecording2025-03-26at03 27 48AM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a142dddf-4927-4375-8e9e-0d03c07a21c0)
+
+
+# 📁 Project Purpose
+
+This project demonstrates how to effectively use **Redux Toolkit** for scalable and performant state management in a product-based CRUD application.
+
+# 📨 Contact
+
+For questions or suggestions, feel free to contact: **fratsbht@icloud.com**
